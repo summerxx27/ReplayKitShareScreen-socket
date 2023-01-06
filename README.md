@@ -145,3 +145,10 @@
     };
 ```
 
+
+
+到此就基本技术了
+
+其中 数据传输的方式, 还可以用 App Group 的方式 我也实现了
+
+Demo 在这里 [https://github.com/summerxx27/ReplayKitShareScreen](https://github.com/summerxx27/ReplayKitShareScreen)
